@@ -4,8 +4,8 @@
 
 # STEP_1: Plate Detection with YOLOV7
 ## Run train_Yolov7.ipynb 
-### Dataset01: https://github.com/roozbehrajabi/ALPR_Dataset  /(YOLOv3_Dataset)
-### Dataset02: https://www.kaggle.com/datasets/skhalili/iraniancarnumberplate
+Dataset01: https://github.com/roozbehrajabi/ALPR_Dataset  /(YOLOv3_Dataset)
+\n Dataset02: https://www.kaggle.com/datasets/skhalili/iraniancarnumberplate
 #### Steps to download Kaggle datasets in Google Colab:
 https://www.kaggle.com/general/156610
 
