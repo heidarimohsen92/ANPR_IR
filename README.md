@@ -19,15 +19,15 @@
 ## Crop Plate Region:
 ![02_crop_region](https://user-images.githubusercontent.com/51045212/219572612-f3171679-7330-4165-903e-6d55b8d32150.png)
 
-
+#-
 # STEP_2: OCR Plate Numbers with fasterrcnn_resnet50
-##### Run tarin_ocr_fasterrcnn.ipynb
+## Run tarin_ocr_fasterrcnn.ipynb
 
 ##### Dataset01: https://github.com/roozbehrajabi/ALPR_Dataset  /(Faster_R-CNN_dataset)
 ##### Install Detecto package for train fasterrcnn_resnet50:
 ##### https://detecto.readthedocs.io/en/latest/index.html
 ##### pip install detecto
-
+#-
 ## OCR Plate Numbers:
 ![03_ocr_plate_numbers](https://user-images.githubusercontent.com/51045212/219572807-4ee2db35-cdee-4223-ad8b-3ece2fbc0d9e.png)
 
