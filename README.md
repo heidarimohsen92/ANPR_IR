@@ -9,7 +9,7 @@
 ##### Steps to download Kaggle datasets in Google Colab: https://www.kaggle.com/general/156610
 
 ## Result train_Yolov7.ipynb:
-##### P = 0.985  --  R = 0.992  -- mAP@.5 = 0.995 -- mAP@.5:.95 == 0.779
+##### P = 0.985  --  R = 0.992  -- mAP@.5 = 0.995 -- mAP@.5:.95 = 0.779
                        
  
 ## Detect Plate: 
