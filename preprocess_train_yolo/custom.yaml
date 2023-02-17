@@ -1,0 +1,9 @@
+
+train: /content/dataset/train
+val: /content/dataset/val
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'plate']
