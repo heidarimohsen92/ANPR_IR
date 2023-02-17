@@ -32,7 +32,8 @@
 ## OCR Plate Numbers:
 ![03_ocr_plate_numbers](https://user-images.githubusercontent.com/51045212/219572807-4ee2db35-cdee-4223-ad8b-3ece2fbc0d9e.png)
 
-
+#
+#
 # ANPR: ANPR/Yolov7_ANPR.py
 ##### Cloning Yolov7 repository in "/ANPR_IR/ANPR/" directory
 ##### Yolov7: https://github.com/WongKinYiu/yolov7
