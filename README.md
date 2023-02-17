@@ -34,7 +34,7 @@
 
 #
 #
-# ANPR: ANPR/Yolov7_ANPR.py
+# ANPR:  Yolov7_ANPR.py
 ##### Cloning Yolov7 repository in "/ANPR_IR/ANPR/" directory
 ##### Yolov7: https://github.com/WongKinYiu/yolov7
 ##### pip install deep-sort-realtime
