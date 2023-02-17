@@ -6,12 +6,11 @@
 ## Run train_Yolov7.ipynb 
 ##### Dataset01: https://github.com/roozbehrajabi/ALPR_Dataset  /(YOLOv3_Dataset)
 ##### Dataset02: https://www.kaggle.com/datasets/skhalili/iraniancarnumberplate
-##### Steps to download Kaggle datasets in Google Colab:
-##### https://www.kaggle.com/general/156610
+##### Steps to download Kaggle datasets in Google Colab: https://www.kaggle.com/general/156610
 
 ## Result train_Yolov7.ipynb:
-##### Class      Images      Labels        P           R      mAP@.5    mAP@.5:.95: 
-##### all         600         609       0.985       0.992    0.995       0.779
+##### P = 0.985  --  R = 0.992  -- mAP@.5 = 0.995 -- mAP@.5:.95 == 0.779
+                       
  
 ## Detect Plate: 
 ![01_plate_region](https://user-images.githubusercontent.com/51045212/219572532-8bb25396-2bc0-49f4-a108-d239badc31d2.jpg)
